@@ -188,7 +188,7 @@ Each script serves a specific purpose within the application.
 
 ### 3. qachat.py
 
-**Purpose:** Acts as the main Streamlit application script, providing an interactive Q&A interface that integrates both text inputs and image uploads to generate responses using Google's Gemini model.
+**Purpose:** Acts as the main Streamlit application script, providing an interactive Q&A interface that integrates both text inputs uploads to generate responses using Google's Gemini model with history.
 
 
 **Explanation:**
